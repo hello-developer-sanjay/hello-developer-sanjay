@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React+Vite**
 
-- 👨‍💻 All of my projects are available at [https://sanjay-developer-portfolio.vercel.app](https://sanjay-developer-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sanjay-developer-portfolio.vercel.app](https://sanjay-patidar.vercel.app)
 
 - 📝 I regularly write articles on [https://eduxcel.vercel.app/blogs](https://eduxcel.vercel.app/blogs)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sanjay.workrework@gmail.com**
 
-- 📄 Know about my experiences [https://sanjay-developer-portfolio.vercel.app/resume](https://sanjay-developer-portfolio.vercel.app/resume)
+- 📄 Know about my experiences [https://sanjay-developer-portfolio.vercel.app/resume](https://sanjay-patidar.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
