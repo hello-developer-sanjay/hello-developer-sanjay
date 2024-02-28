@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Sanjay Patidar</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h1 align="center">Hello 👋, I'm Sanjay Patidar</h1>
+<h3 align="center">Web Developer & UI/UX Designer | Educated at Jawahar Navodaya Vidyalaya and Chandigarh University | Crafting Scalable Digital Solutions for Global Innovation</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-developer-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="hello-developer-sanjay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hello-developer-sanjay" alt="hello-developer-sanjay" /></a> </p>
 
-- 🔭 I’m currently working on [EduXcel: a platform designed for seamless online education.](https://eduxcel.vercel.app)
+- 🔭 I’m currently working on [EduXcel | Empowering Careers in Tech: Expert Insights, Cutting-Edge Education, and Skill Mastery](https://eduxcel.vercel.app)
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://eduxcel.vercel.app/blogs](https://eduxcel.vercel.app/blogs)
 
-- 💬 Ask me about **react , vue, Node, Express mangoose cors api**
+- 💬 Ask me about **react ,  Node, Express mangoose cors api**
 
 - 📫 How to reach me **sanjay.workrework@gmail.com**
 
