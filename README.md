@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hello-developer-sanjay" alt="hello-developer-sanjay" /></a> </p>
 
 - 🔭 I’m currently working on [EduXcel | Empowering Careers in Tech: Expert Insights, Cutting-Edge Education, and Skill Mastery](https://eduxcel.vercel.app)
+- - 🔭 [HogwartsEdx : Where Magic Meets Technology](https://hogwartsedx.vercel.app)
+
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -14,9 +16,9 @@
 
 - 📝 I regularly write articles on [https://eduxcel.vercel.app/blogs](https://eduxcel.vercel.app/blogs)
 
-- 💬 Ask me about **react ,  Node, Express mangoose cors api**
+- 💬 Ask me about **React.js, Node.js, Express.js, AWS**
 
-- 📫 How to reach me **sanjay.workrework@gmail.com**
+- 📫 How to reach me **sanjay.patidar.eduxcel@gmail.com**
 
 - 📄 Know about my experiences [https://sanjay-patidar.vercel.app/resume](https://sanjay-patidar.vercel.app/resume)
 
