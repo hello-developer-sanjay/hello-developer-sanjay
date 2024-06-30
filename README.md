@@ -6,8 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hello-developer-sanjay" alt="hello-developer-sanjay" /></a> </p>
 
-- 🔭 I’m currently working on [EduXcel | Empowering Careers in Tech: Expert Insights, Cutting-Edge Education, and Skill Mastery](https://eduxcel.vercel.app)
-- - 🔭 [HogwartsEdx : Where Magic Meets Technology](https://hogwartsedx.vercel.app)
+- 🔭 I’m currently working on [EduXcel | Empowering Careers in Tech](https://eduxcel.vercel.app)
+- 🔭 [HogwartsEdx : Where Magic Meets Technology](https://hogwartsedx.vercel.app)
+- 🔭 [EventEase : Your Ultimate Event Management Tool](https://event-ease-nine.vercel.app)
 
 
 - 🌱 I’m currently learning **Mern Stack**
