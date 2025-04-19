@@ -46,7 +46,7 @@ Achievements:<br>
 ⦿ Built a dashboard with Redux and Google Calendar API for schedule management.<br>
 ⦿ Reduced page load latency by 25% with async data fetching.<br>
 ⦿ Streamlined Agile collaboration across 3 teams, speeding decisions by 40%.<br>
-Links: [](https://eventpro.vercel.app) | [GitHub](https://github.com/hello-developer-sanjay/EventPro-Frontend)<br>
+Links: [Live](https://eventpro.vercel.app) | [GitHub](https://github.com/hello-developer-sanjay/EventPro-Frontend)<br>
 Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/EventPro-Frontend?style=social&labelColor=000000&glow=true" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/EventPro-Frontend?style=social&labelColor=000000&glow=true" /><br><br>
 
 ConnectNow | Video Chat App<br> Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
