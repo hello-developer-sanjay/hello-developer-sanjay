@@ -1,6 +1,5 @@
 👨‍💻 Sanjay Patidar | Full-Stack Developer & Zedemy Founder
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+Building+Scalable+Web+Apps;Founder+of+Zedemy+Learning+Platform;Expert+in+React.js,+Node.js,+and+AWS;Driving+500K%2B+Impressions+Globally" alt="Typing SVG" /> </p> <p align="center"> <a href="https://sanjay-patidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=flat&logo=vercel&logoColor=white" /></a> <a href="https://linkedin.com/in/sanjay-patidar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:sanjaypatidar.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=hello-developer-sanjay&color=0e75b6&style=flat" alt="Profile views" /> </p>
-🌟 About Me
 I'm a Software Development Engineer and the Founder & Lead Developer at Zedemy, passionate about crafting scalable, user-centric web applications. With 12+ full-stack solutions deployed, my work has generated 500K+ impressions and $100K+ engagements across 120+ countries. I specialize in React.js, Node.js, AWS serverless architectures, and Agile methodologies, delivering efficient, production-ready code for seamless growth.<br><br>
 
 Key Achievements:
@@ -44,7 +43,7 @@ Reduced infrastructure costs by 40% with serverless AWS architecture.<br>
 Achieved 90%+ test coverage using Jest and Supertest for APIs.<br>
 Links: Live | GitHub<br>
 Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/zedemy?style=social" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/zedemy?style=social" /><br><br>
-EventPoa | Event Management System<br>
+EventPro | Event Management System<br>
 Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
 
 Tech Stack: MERN Stack, Google Calendar API, Context API, RESTful APIs<br>
@@ -53,7 +52,7 @@ Built a dashboard with Redux and Google Calendar API for schedule management.<br
 Reduced page load latency by 25% with async data fetching.<br>
 Streamlined Agile collaboration across 3 teams, speeding decisions by 40%.<br>
 Links: Live | GitHub<br>
-Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/eventpoa?style=social" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/eventpoa?style=social" /><br><br>
+Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/EventPro-Frontend?style=social" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/EventPro-Frontend?style=social" /><br><br>
 ConnectNow | Video Chat App<br>
 Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
 
@@ -62,8 +61,8 @@ Achievements:<br>
 Delivered peer-to-peer video calls with WebRTC and custom signaling logic.<br>
 Reduced call drops by 35% under unreliable networks.<br>
 Secured API requests with Node.js proxy middleware, resolving CORS issues.<br>
-Links: Live | GitHub<br>
-Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/connectnow?style=social" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/connectnow?style=social" /><br><br>
+Links: [Live](https://connectnow.vercel.app) | GitHub<br>
+Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/ConnectNow-frontend?style=social" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/ConnectNow-frontend?style=social" /><br><br>
 Explore More: sanjay-patidar.vercel.app<br>
 
 💼 Work Experience
