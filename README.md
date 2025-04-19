@@ -34,7 +34,7 @@ Built a full-stack platform for category-based posts and automated certificate i
 Integrated JWT/OAuth for role-based access and subscription notifications.
 Achieved 90%+ test coverage with Jest and Supertest for backend APIs.
 <p align="center"> <img src="https://img.shields.io/github/stars/hello-developer-sanjay/zedemy?style=social" alt="Zedemy Stars" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/zedemy?style=social" alt="Zedemy Forks" /> </p>
-EventPoa | Event Management System
+EventPro | Event Management System
 Lead Full Stack Developer | Jan 2024 – Oct 2024
 
 Tech Stack: MERN Stack, Google Calendar API, Context API
