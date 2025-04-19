@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Sanjay%20Patidar&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="Header" /> </p>
 👨‍💻 Sanjay Patidar | Full-Stack Developer & Zedemy Founder
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=0E75B6¢er=true&vCenter=true&width=800&lines=Full-Stack+Engineer+Crafting+Scalable+Web+Apps;Founder+of+Zedemy+Learning+Platform;Expert+in+React.js,+Node.js,+AWS;Driving+500K%2B+Impressions+Across+120%2B+Countries;Passionate+About+Innovative+Web+Development;Building+the+Future+of+Learning+with+Zedemy" alt="Typing SVG" /> </p> <p align="center"> <a href="https://sanjay-patidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://linkedin.com/in/sanjay-patidar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a> <a href="mailto:sanjaypatidar.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a> <img src="https://komarev.com/ghpvc/?username=hello-developer-sanjay&color=0e75b6&style=for-the-badge&label=Profile+Views&animation=grow" alt="Profile views" /> </p>
-🌟 About Me
+
 I'm a Software Development Engineer and the Founder & Lead Developer at Zedemy, passionate about building scalable, user-centric web applications. With 12+ full-stack solutions deployed, my work has generated 500K+ impressions and $100K+ engagements across 120+ countries. I specialize in React.js, Node.js, AWS serverless architectures, and Agile methodologies, delivering production-ready code for seamless growth.<br><br>
 
 Key Achievements:<br>
@@ -29,41 +29,46 @@ Cloud & DevOps:<br>
 Methodologies:<br>
 
 <p align="center"> <a href="https://agilemanifesto.org"><img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white&labelColor=000000&glow=true" alt="Agile" /></a> <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Unit_Testing-323330?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000&glow=true" alt="Unit Testing" /></a> <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="https://img.shields.io/badge/Design_Patterns-6DB33F?style=for-the-badge&logo=pattern&logoColor=white&labelColor=000000&glow=true" alt="Design Patterns" /></a> </p><br>
+
 🌟 Featured Projects
 Zedemy | Learning Platform<br> Founder & Lead Developer | Jan 2024 – Oct 2024<br>
 Tech Stack: React.js, Redux, AWS Lambda, DynamoDB, S3, Tailwind CSS, GitHub Actions<br>
 Achievements:<br>
-Launched a platform for category-based posts, enabling collaborative learning and automated certificate issuance.<br>
-Reduced infrastructure costs by 40% with serverless AWS architecture.<br>
-Achieved 90%+ test coverage using Jest and Supertest for APIs.<br>
-Links: Live | GitHub<br>
+⦿ Launched a platform for category-based posts, enabling collaborative learning and automated certificate issuance.<br>
+⦿ Reduced infrastructure costs by 40% with serverless AWS architecture.<br>
+⦿ Achieved 90%+ test coverage using Jest and Supertest for APIs.<br>
+Links: [Live](https://zedemy.vercel.app) | [GitHub](https://github.com/hello-developer-sanjay/Zedemy)<br>
 Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/Zedemy?style=social&labelColor=000000&glow=true" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/Zedemy?style=social&labelColor=000000&glow=true" /><br><br>
-EventPoa | Event Management System<br> Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
+
+EventPro | Event Management System<br> Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
 Tech Stack: MERN Stack, Google Calendar API, Context API, RESTful APIs<br>
 Achievements:<br>
-Built a dashboard with Redux and Google Calendar API for schedule management.<br>
-Reduced page load latency by 25% with async data fetching.<br>
-Streamlined Agile collaboration across 3 teams, speeding decisions by 40%.<br>
-Links: Live | GitHub<br>
+⦿ Built a dashboard with Redux and Google Calendar API for schedule management.<br>
+⦿ Reduced page load latency by 25% with async data fetching.<br>
+⦿ Streamlined Agile collaboration across 3 teams, speeding decisions by 40%.<br>
+Links: [](https://eventpro.vercel.app) | [GitHub](https://github.com/hello-developer-sanjay/EventPro-Frontend)<br>
 Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/EventPro-Frontend?style=social&labelColor=000000&glow=true" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/EventPro-Frontend?style=social&labelColor=000000&glow=true" /><br><br>
+
 ConnectNow | Video Chat App<br> Lead Full Stack Developer | Jan 2024 – Oct 2024<br>
 Tech Stack: WebRTC, React.js, Node.js, MongoDB, Socket.io<br>
 Achievements:<br>
-Delivered peer-to-peer video calls with WebRTC and custom signaling logic.<br>
-Reduced call drops by 35% under unreliable networks.<br>
-Secured API requests with Node.js proxy middleware, resolving CORS issues.<br>
-Links: Live | GitHub<br>
+⦿ Delivered peer-to-peer video calls with WebRTC and custom signaling logic.<br>
+⦿ Reduced call drops by 35% under unreliable networks.<br>
+⦿ Secured API requests with Node.js proxy middleware, resolving CORS issues.<br>
+Links: [Live](https://connectnow.vercel.app) | [GitHub](https://github.com/hello-developer-sanjay/ConnectNow-frontend)<br>
 Stats: <img src="https://img.shields.io/github/stars/hello-developer-sanjay/ConnectNow-frontend?style=social&labelColor=000000&glow=true" /> <img src="https://img.shields.io/github/forks/hello-developer-sanjay/ConnectNow-frontend?style=social&labelColor=000000&glow=true" /><br><br>
 Explore More: sanjay-patidar.vercel.app<br>
+
 💼 Work Experience
 SmartServe DO | Freelance Frontend Developer<br> Nov 2024 – Feb 2025<br>
 Tech Stack: React.js, Gemini API, Tailwind CSS, Vite<br>
 Achievements:<br>
-Developed a multilingual AI chatbot for LIC officers, increasing session duration by 30%.<br>
-Reduced initial load time by 40% using Vite and lazy loading.<br>
-Link: Live<br><br>
+⦿ Developed a multilingual AI chatbot for LIC officers, increasing session duration by 30%.<br>
+⦿ Reduced initial load time by 40% using Vite and lazy loading.<br>
+Link: [Live](https://smartserve-do.vercel.app)<br><br>
 📊 GitHub Stats & Contributions
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hello-developer-sanjay&show_icons=true&theme=radical&count_private=true&border_color=0E75B6&border_radius=10" alt="GitHub Stats" width="400" style="box-shadow: 0 0 10px #0E75B6;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hello-developer-sanjay&theme=radical&border=0E75B6&border_radius=10" alt="GitHub Streak" width="400" style="box-shadow: 0 0 10px #0E75B6;" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-developer-sanjay&show_icons=true&locale=en&layout=compact&theme=radical&border_color=0E75B6&border_radius=10" alt="Top Languages" width="400" style="box-shadow: 0 0 10px #0E75B6;" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hello-developer-sanjay&theme=radical&no-frame=true&margin-w=10&border_color=0E75B6" alt="GitHub Trophies" style="box-shadow: 0 0 10px #0E75B6;" /> </p>
+
 🏆 Certifications & Badges
 Certification	Issuer	Date	Link
 AWS Cloud Solutions Architect	Coursera	Feb 2024	View
@@ -72,8 +77,8 @@ AWS Cloud Solutions Architect	Coursera	Feb 2024	View
 I share cutting-edge insights on web development and cloud technologies:<br>
 
 Topics: React.js optimizations, AWS serverless patterns, Node.js performance, SEO strategies<br>
-Recent Post: "Scaling Web Apps with AWS Lambda and DynamoDB"<br>
-👉 Read my blogs<br><br>
+Recent Post: "What’s New in VS Code (Visual Studio Code) v1.99 – March 2025 Highlights"<br>
+👉 [Read my blogs](https://zedemy.vercel.app/explore)<br><br>
 💬 Let’s Connect!
 I’m excited to collaborate and share my expertise in building innovative solutions. Reach out to discuss:<br>
 
