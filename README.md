@@ -31,14 +31,7 @@ Methodologies:<br>
 <p align="center"> <a href="https://agilemanifesto.org"><img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white&labelColor=000000&glow=true" alt="Agile" /></a> <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Unit_Testing-323330?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000&glow=true" alt="Unit Testing" /></a> <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="https://img.shields.io/badge/Design_Patterns-6DB33F?style=for-the-badge&logo=pattern&logoColor=white&labelColor=000000&glow=true" alt="Design Patterns" /></a> </p><br>
 
 🌟 Featured Projects<br>
-<div style="font-family: 'Fira Code', monospace; text-align: center; padding: 20px; background: linear-gradient(135deg, #0E75B6, #1A1A1A); border-radius: 10px; box-shadow: 0 0 15px rgba(14, 117, 182, 0.7); color: #FFFFFF;">
-    <h3 style="font-weight: bold; font-size: 24px; margin: 10px 0; text-shadow: 0 0 10px #0E75B6;">
-        Zedemy | Learning Platform
-    </h3>
-    <p style="font-weight: bold; font-size: 18px; margin: 5px 0; text-shadow: 0 0 5px #0E75B6;">
-        Founder & Lead Developer | Jan 2024 – Oct 2024
-    </p>
-</div>
+Zedemy | Learning Platform<br> Founder & Lead Developer | Jan 2024 – Oct 2024
 Tech Stack: React.js, Redux, AWS Lambda, DynamoDB, S3, Tailwind CSS, GitHub Actions<br>
 Achievements:<br>
 ⦿ Launched a platform for category-based posts, enabling collaborative learning and automated certificate issuance.<br>
