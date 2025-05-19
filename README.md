@@ -78,7 +78,7 @@ AWS Cloud Solutions Architect	Coursera	Feb 2024	View
 I share cutting-edge insights on web development and cloud technologies:<br>
 
 Topics: React.js optimizations, AWS serverless patterns, Node.js performance, SEO strategies<br>
-Recent Post: "[What’s New in VS Code (Visual Studio Code) v1.99 – March 2025 Highlights](https://zedemy.vercel.app/post/whats-new-in-vs-code-visual-studio-code-v199--march-2025-highlights)"<br>
+Recent Post: "[VS Code vs Visual Studio: Key Differences and Comparison](https://zedemy.vercel.app/post/vs-code-vs-visual-studio-key-differences-and-comparison)"<br>
 👉 [Read my blogs](https://zedemy.vercel.app/explore)<br><br>
 💬 Let’s Connect!
 I’m excited to collaborate and share my expertise in building innovative solutions. Reach out to discuss:<br>
