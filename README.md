@@ -78,7 +78,15 @@ AWS Cloud Solutions Architect	Coursera	Feb 2024	View
 I share cutting-edge insights on web development and cloud technologies:<br>
 
 Topics: React.js optimizations, AWS serverless patterns, Node.js performance, SEO strategies<br>
-Recent Post: "[VS Code vs Visual Studio: Key Differences and Comparison](https://zedemy.vercel.app/post/vs-code-vs-visual-studio-key-differences-and-comparison)"<br>
+Recent Post: "[Visual Studio vs VS Code 2025: Key Features & Differences](https://zedemy.vercel.app/post/visual-studio-vs-vs-code-2025-key-features--differences)"<br>
+ "[Learn JavaScript: Beginner Guide with Code & Web Examples](https://zedemy.vercel.app/post/learn-javascript-beginner-guide-with-code--web-examples)"<br>
+  "[Why Should Beginners Learn React in 2025?](https://zedemy.vercel.app/post/why-should-beginners-learn-react-in-2025)"<br>
+  "[How to Build React Setup: Vite, CRA, Parcel Easy Guide2025](https://zedemy.vercel.app/post/how-to-build-react-setup-vite-cra-parcel-easy-guide2025)"<br>
+ "[React vs Vanilla JavaScript-Comparison/Differences Guide2025](https://zedemy.vercel.app/post/react-vs-vanilla-javascript-comparisondifferences-guide2025)"<br>
+ "[How to Write Your First React Component with Examples?](https://zedemy.vercel.app/post/how-to-write-your-first-react-component-with-examples)"<br>
+  "[React Beginner’s Guide 2025: Learn with Code Examples](https://zedemy.vercel.app/post/react-beginners-guide-2025-learn-with-code-examples-)"<br>
+ "[What is React and Why Use It for Web Development?](https://zedemy.vercel.app/post/what-is-react-and-why-use-it-for-web-development)"<br>
+ "[How Does React Work with Components and JSX?](https://zedemy.vercel.app/post/how-does-react-work-with-components-and-jsx)"<br>
 👉 [Read my blogs](https://zedemy.vercel.app/explore)<br><br>
 💬 Let’s Connect!
 I’m excited to collaborate and share my expertise in building innovative solutions. Reach out to discuss:<br>
