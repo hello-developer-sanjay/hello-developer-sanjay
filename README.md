@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer+%7C+Serverless+Architect+%7C+Zedemy+Founder;12%2B+Deployed+Projects+%7C+500K%2B+Users+Reached+Globally;React.js+%7C+Node.js+%7C+AWS+%7C+MongoDB+%7C+CI%2FCD+%7C+SSR+%7C+SEO+Expertise)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer+%7C+Serverless+Architect+%7C+Founder+of+Zedemy;12%2B+Deployed+Apps+%7C+500K%2B+Impressions+Globally;React.js+%7C+Node.js+%7C+AWS+Lambda+%7C+MongoDB+%7C+SEO+%7C+SSR+%7C+CI%2FCD)
 
 </div>
 
@@ -12,68 +12,74 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Full-Stack Developer with expertise in building **serverless, SEO-first, scalable apps** using React, Node.js, and AWS.
-- 🎓 B.Tech in Computer Science – Chandigarh University (2020–2024)
-- 📍 Based in Neemuch, India | 🌐 Portfolio: [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)
-- 🔧 Founder of [Zedemy](https://zedemy.vercel.app): Empowering learning with real-world dev projects and automated certifications.
+- 🔧 Full-Stack Developer passionate about **serverless architecture**, **SEO-first development**, and solving real-world product challenges.
+- 🌱 Founder of **Zedemy** – a learning platform empowering developers with hands-on education & automated certifications.
+- 🌍 Based in **Neemuch, India** | 🎓 B.Tech in Computer Science (2020–2024) – Chandigarh University
+- 🎯 12+ deployed projects, **500K+ impressions**, 120+ countries reached
+- 💬 Portfolio: [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)
 
 ---
 
-## 🏗️ Experience Timeline
+## 🏗️ Experience Timeline (Like LinkedIn)
 
-### 🔹 Lead Software Engineer – *Freelance*
-📅 Jan 2025 – Present  
-**Projects:**  
-- [**LIC Neemuch**](https://licneemuch.space) – Insurance Inquiry Platform  
-  → +80% lead conversion | SSR + SEO | 100/100 PageSpeed  
-- Stakeholder engagement with LIC DOs, performance & UX optimization via AWS CloudFront & MongoDB caching
+### 💼 **Lead Software Engineer (Freelance)**  
+**🗓️ Jan 2025 – Present**  
+Projects:  
+- **[LIC Neemuch](https://licneemuch.space)** – Insurance Inquiry Platform  
+  → +80% conversions | SSR + SEO | 100/100 PageSpeed  
+  → Stakeholder collaboration with LIC DOs | AWS Lambda | MongoDB caching
 
-### 🔹 Full Stack Engineer – *Zedemy*  
-📅 Jan 2024 – Present  
-**Built & Led:**
-- [**Zedemy Platform**](https://zedemy.vercel.app): Full-stack e-learning SaaS with Lambda + DynamoDB  
-- [**EventEase**](https://eventunified.vercel.app): Event dashboard with Google Calendar API  
-- [**ConnectNow**](https://connectnow.vercel.app): WebRTC-based real-time video chat app  
-- [**EduXcel**](https://github.com/hello-developer-sanjay/EduXcel): SEO-first learning portal with 300K+ impressions  
+---
 
-### 🔹 Frontend Developer – *SmartServe DO*  
-📅 Oct 2024 – Apr 2025  
-- Built multilingual AI chatbot for LIC with Gemini API + Vite  
-- Optimized UX for 30% higher session time
+### 💼 **Full Stack Engineer – Zedemy**  
+**🗓️ Jan 2024 – Present**  
+Projects:  
+- **[Zedemy](https://zedemy.vercel.app)** – Serverless learning SaaS  
+  → 90% test coverage, auto cert issuance, 40% infra cost cut  
+- **[EventEase](https://eventunified.vercel.app)** – Event Dashboard  
+  → Google Calendar API | 25% load speed improvement  
+- **[ConnectNow](https://connectnow.vercel.app)** – WebRTC Video Calls  
+  → Custom signaling logic | 35% fewer call drops  
+- **EduXcel** – SEO-optimized education portal  
+  → #1 Google rank | 300K+ impressions across 127 countries
+
+---
+
+### 💼 **Frontend Developer – SmartServe DO**  
+**🗓️ Oct 2024 – Apr 2025**  
+- AI chatbot for LIC using Gemini API  
+- Vite optimization, multilingual speech-to-text, +30% session time
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Stack | Highlights | Links |
-|--------|-------|------------|-------|
-| **Zedemy** | React, AWS Lambda, DynamoDB | 40% infra cost cut, 90% test coverage | [Live](https://zedemy.vercel.app) · [Repo](https://github.com/hello-developer-sanjay/Zedemy) |
-| **EventEase** | MERN, Google Calendar | 25% faster load, Agile collab | [Live](https://eventunified.vercel.app) · [Repo](https://github.com/hello-developer-sanjay/EventEase) |
-| **ConnectNow** | WebRTC, Socket.io | Real-time calls, 35% fewer drops | [Live](https://connectnow.vercel.app) · [Repo](https://github.com/hello-developer-sanjay/ConnectNow-frontend) |
-| **EduXcel** | React, MongoDB, SSR | #1 Google rank, 20K+ clicks | [Live](https://github.com/hello-developer-sanjay/EduXcel) |
-| **LIC Neemuch** | React, AWS, MongoDB | 80% conversion boost | [Live](https://licneemuch.space) · [Repo](https://github.com/hello-developer-sanjay/LicNeemuch) |
+| Project        | Stack                                   | Highlights                                         | Live/Code |
+|----------------|------------------------------------------|----------------------------------------------------|-----------|
+| **Zedemy**     | React, AWS Lambda, DynamoDB, S3          | Serverless LMS | [Live](https://zedemy.vercel.app) · [Code](https://github.com/hello-developer-sanjay/Zedemy) |
+| **EventEase**  | MERN, Google Calendar, Context API       | Real-time scheduling | [Live](https://eventunified.vercel.app) · [Code](https://github.com/hello-developer-sanjay/EventEase) |
+| **ConnectNow** | WebRTC, React, Node.js, Socket.io        | Peer-to-peer video | [Live](https://connectnow.vercel.app) · [Code](https://github.com/hello-developer-sanjay/ConnectNow-frontend) |
+| **LIC Neemuch**| React, AWS, MongoDB, CloudFront          | Insurance portal, 100/100 PageSpeed | [Live](https://licneemuch.space) · [Code](https://github.com/hello-developer-sanjay/LicNeemuch) |
+| **EduXcel**    | React, MongoDB, SSR                      | 300K impressions | [Code](https://github.com/hello-developer-sanjay/EduXcel) |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js,redux" />
+</p>
 
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white)
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,graphql,socketio" />
+</p>
 
-**Cloud & DevOps:**  
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)  
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)  
-![CloudFront](https://img.shields.io/badge/CloudFront-D05C3B?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,lambda,dynamodb,s3,cloudflare,githubactions,vercel" />
+</p>
 
 ---
 
@@ -87,22 +93,27 @@
 
 ---
 
-## 📚 Blog Highlights
+## 📝 Blogs & Tutorials
 
-- [Why Should Beginners Learn React in 2025?](https://zedemy.vercel.app/post/why-should-beginners-learn-react-in-2025)  
-- [React vs Vanilla JavaScript](https://zedemy.vercel.app/post/react-vs-vanilla-javascript-comparisondifferences-guide2025)  
-- [How to Build React Setup with Vite, CRA, Parcel](https://zedemy.vercel.app/post/how-to-build-react-setup-vite-cra-parcel-easy-guide2025)
-
-📝 More @ [zedemy.vercel.app/explore](https://zedemy.vercel.app/explore)
+🔗 [Zedemy Blog](https://zedemy.vercel.app/explore) – Insights, guides & tutorials.  
+Some top reads:
+- [Why Should Beginners Learn React in 2025?](https://zedemy.vercel.app/post/why-should-beginners-learn-react-in-2025)
+- [How to Build React Setup: Vite vs CRA vs Parcel](https://zedemy.vercel.app/post/how-to-build-react-setup-vite-cra-parcel-easy-guide2025)
+- [React vs Vanilla JavaScript](https://zedemy.vercel.app/post/react-vs-vanilla-javascript-comparisondifferences-guide2025)
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Contact
 
-- 📧 Email: [sanjaypatidar.engineer@gmail.com](mailto:sanjaypatidar.engineer@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sanjay-patidar](https://linkedin.com/in/sanjay-patidar)  
-- 🌐 Portfolio: [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)  
-- 📄 Resume: [View Resume](https://sanjay-patidar.vercel.app/resume)
+Let’s collaborate or chat about:
+- 🔹 Product-led development  
+- 🔹 Scalable cloud systems  
+- 🔹 Real-time applications  
+- 🔹 Frontend performance & SSR
+
+**📧 Email:** [sanjaypatidar.engineer@gmail.com](mailto:sanjaypatidar.engineer@gmail.com)  
+**🌐 Website:** [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)  
+**💼 LinkedIn:** [linkedin.com/in/sanjay-patidar](https://linkedin.com/in/sanjay-patidar)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" />
