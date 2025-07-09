@@ -32,7 +32,13 @@ Each of my projects is **backed by a real use case**, engineered for production-
 ### LIC Neemuch – Insurance Inquiry Platform  
 **Live:** [licneemuch.space](https://licneemuch.space)  
 **Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/lic-case-study)  
-**LIC Neemuch Website Architecture :** [Architecture](https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-08_bfdb0da4-ad88-48e7-8657-7338fa7af12f.webp)  
+<h3><strong>LIC Neemuch Website Architecture:</strong></h3>
+<a href="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-08_bfdb0da4-ad88-48e7-8657-7338fa7af12f.webp" target="_blank">
+  <img 
+    src="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-08_bfdb0da4-ad88-48e7-8657-7338fa7af12f.webp" 
+    alt="LIC Neemuch Website Architecture" 
+    style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+</a>
 
 #### Project Summary  
 Developed to modernize local LIC officer operations, this project digitizes policy discovery and lead generation through a fast, serverless, and SEO-optimized web platform.
