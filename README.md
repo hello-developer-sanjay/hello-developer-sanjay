@@ -66,6 +66,7 @@ Developed to modernize local LIC officer operations, this project digitizes poli
     alt="Zedemy Website Architecture" 
     style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
 </a>
+
 #### Project Summary  
 
 Zedemy is a full-fledged learning management system where users read content, track progress, verify certificates, and use an embedded code editor—all on a serverless infrastructure.
@@ -93,6 +94,7 @@ Zedemy is a full-fledged learning management system where users read content, tr
     alt="EventEase Website Architecture" 
     style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
 </a>
+
 #### Project Summary  
 
 Merged two products—EventEase (smart scheduling) and EventPro (team-based CRUD platform)—into a seamless platform with dashboards, authentication, and real-time collaboration.
@@ -120,6 +122,7 @@ Merged two products—EventEase (smart scheduling) and EventPro (team-based CRUD
     alt="ConnectNow Website Architecture" 
     style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
 </a>
+
 #### Project Summary  
 
 A robust peer-to-peer video and file sharing platform built on WebRTC with custom signaling via Socket.io. Includes ICE retry, real-time chat, and media/file delivery.
