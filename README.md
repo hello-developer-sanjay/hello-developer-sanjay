@@ -59,9 +59,9 @@ Developed to modernize local LIC officer operations, this project digitizes poli
 **Live:** [zedemy.vercel.app](https://zedemy.vercel.app)  
 **Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/zedemy-case-study)  
 <h3><strong>Zedemy Website Architecture:</strong></h3>
-<a href="https://d12uvtgcxr5qif.cloudfront.net/images/python_2025-06-25_7c7e74c5-75fa-4396-a99f-941e9e3a2bfd.webp" target="_blank">
+<a href="https://d12uvtgcxr5qif.cloudfront.net/images/css_2025-07-03_cb43e254-8d85-44ca-9d26-b1aad5ff5211.webp" target="_blank">
   <img 
-    src="https://d12uvtgcxr5qif.cloudfront.net/images/python_2025-06-25_7c7e74c5-75fa-4396-a99f-941e9e3a2bfd.webp" 
+    src="https://d12uvtgcxr5qif.cloudfront.net/images/css_2025-07-03_cb43e254-8d85-44ca-9d26-b1aad5ff5211.webp" 
     alt="Zedemy Website Architecture" 
     style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
 </a>
