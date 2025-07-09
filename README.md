@@ -84,8 +84,13 @@ Zedemy is a full-fledged learning management system where users read content, tr
 ### EventEase – Unified Event Scheduling & Management  
 **Live:** [eventunified.vercel.app](https://eventunified.vercel.app)  
 **Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/eventease-case-study)  
-**Image Section to Add:** *Unified Fullstack Architecture*, *Component-level Structure*, *Deployment Map*
-
+<h3><strong>EventEase Website Architecture:</strong></h3>
+<a href="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-03_b58ba1c1-f56b-41a0-aa72-331631236ef8.webp" target="_blank">
+  <img 
+    src="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-03_b58ba1c1-f56b-41a0-aa72-331631236ef8.webp" 
+    alt="EventEase Website Architecture" 
+    style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+</a>
 #### Project Summary  
 Merged two products—EventEase (smart scheduling) and EventPro (team-based CRUD platform)—into a seamless platform with dashboards, authentication, and real-time collaboration.
 
@@ -105,8 +110,13 @@ Merged two products—EventEase (smart scheduling) and EventPro (team-based CRUD
 ### ConnectNow – Real-time P2P Video Communication  
 **Live:** [connectnow.vercel.app](https://connectnow.vercel.app)  
 **Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/connectnow-case-study)  
-**Image Section to Add:** *WebRTC Peer Flow*, *ICE Fallback Diagram*, *Backend Signaling Architecture*
-
+<h3><strong>ConnectNow Website Architecture:</strong></h3>
+<a href="https://d12uvtgcxr5qif.cloudfront.net/images/vs-code_2025-07-03_cac6a510-b50c-415c-ba43-2df8146bd8fe.webp" target="_blank">
+  <img 
+    src="https://d12uvtgcxr5qif.cloudfront.net/images/vs-code_2025-07-03_cac6a510-b50c-415c-ba43-2df8146bd8fe.webp" 
+    alt="ConnectNow Website Architecture" 
+    style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+</a>
 #### Project Summary  
 A robust peer-to-peer video and file sharing platform built on WebRTC with custom signaling via Socket.io. Includes ICE retry, real-time chat, and media/file delivery.
 
